@@ -1,0 +1,24 @@
+#home{
+   background-image: url(./images/a209d4af04890cc86a626e9eac6e70ac.jpg); 
+   background-repeat: no-repeat;
+   height: 100%;
+   width: 100%;
+   margin-top: 2%;
+   margin-left: 1%;
+   padding-left: 20%;
+}
+h1{
+    color: blue;
+    font-family: fantasy;
+    font-size: x-large;
+    font-weight: 200;
+}
+p{
+    color: brown;
+}
+.genres{
+    color: blueviolet;
+}
+#desc{
+    color: chartreuse;
+}
